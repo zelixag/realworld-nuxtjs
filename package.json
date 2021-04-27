@@ -1,7 +1,7 @@
 {
   "name": "realworld-nuxtjs",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.4",
+  "description": "金合欢花",
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",
