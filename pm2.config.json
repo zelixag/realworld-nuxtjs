@@ -1,0 +1,9 @@
+{
+  "pm2": [
+    {
+      "name":"RealWorld",
+      "script":"npm",
+      "args":"start"
+    }
+  ]
+}
